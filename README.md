@@ -1,2 +1,3 @@
-# snider_mack_RWD_HW5
-Repository for homework 5 in MMED-1056
+# Responsive Web Design - MMED-1056 Mackenzie Snider
+
+Repository for homework 5 in MMED-1056. Homework 5
